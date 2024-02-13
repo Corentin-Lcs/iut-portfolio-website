@@ -1,6 +1,5 @@
 <h1 align="center">Portfolio Website · IUT de Paris - Rives de Seine</h1>
 
-
 The "Portfolio Website" GitHub project is my personal web portfolio. It serves as an online showcase of my work, skills, and achievements.
 
 > [!IMPORTANT]  
